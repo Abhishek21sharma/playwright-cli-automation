@@ -27,3 +27,5 @@ Note: In agent.md :-> these are optional, model,tools,memory but critical set is
 ### Automatic agents:
 
 So claude or any main agent, can also create a custom agent.md file (sub-agents) by itslef if ask it to create it for us. a sample prompt is attached.
+
+Also, we can ask main agent, to review custom agent.md file as well
